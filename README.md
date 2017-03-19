@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+Learning to code - have a few app ideas
